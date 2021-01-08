@@ -1,8 +1,9 @@
 # Implementation for the Data Structures 
 
-from lot import Stack
-from lot import Queue
-from lot import MaxHeap
+```
+from ds import Stack
+from ds import Queue
+from ds import MaxHeap
 
 mystack=Stack()
 mystack.push(1)
@@ -31,3 +32,4 @@ print(my.peek())
 print(my.pop())
 print(my.peek())
 print(my.pop())
+```
